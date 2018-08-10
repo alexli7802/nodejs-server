@@ -1,0 +1,9 @@
+svg {
+  border: dotted;
+  background-fill: lightblue;
+}
+
+div {
+  border: dashed;
+  background-color: lightblue; 
+}

@@ -1,0 +1,8 @@
+This project is created to implement data visualization for CellOS Network Solution
+ - built with nodejs, D3js and etc
+
+
+============================= development log =============================
+
+- 10/Aug/2018
+  * created basic application
