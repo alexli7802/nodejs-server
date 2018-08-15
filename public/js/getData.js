@@ -2,7 +2,7 @@
 
 function requestDataByD3() {
 
-  d3.json("http://172.16.40.51:8282/api-test")
+  d3.json("http://172.16.40.51:8282/api-test?fromday=2018-08-13&fromhour=17&today=201808-13&tohour=20")
     .then( (received) => { 
 
       // console.log(received);
